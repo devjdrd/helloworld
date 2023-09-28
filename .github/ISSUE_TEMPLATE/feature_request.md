@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: BUG
-labels: bug
+title: feature_request.md
+labels: enhancement
 assignees: devjdrd
 
 ---
